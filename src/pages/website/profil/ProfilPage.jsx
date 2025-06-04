@@ -65,7 +65,7 @@ const ProfilPage = () => {
       >
         <div className="flex flex-col items-center space-y-5">
           <img
-            src={auth.user.fotoUrl ? auth.user.fotoUrl : "https://media.istockphoto.com/id/1147544807/vector/thumbnail-image-vector-graphic.jpg?s=612x612&w=0&k=20&c=rnCKVbdxqkjlcs3xH87-9gocETqpspHFXu5dIGB4wuM="}
+            src={auth.user.foto ? auth.user.foto : "https://media.istockphoto.com/id/1147544807/vector/thumbnail-image-vector-graphic.jpg?s=612x612&w=0&k=20&c=rnCKVbdxqkjlcs3xH87-9gocETqpspHFXu5dIGB4wuM="}
             alt={auth.user.name}
             className="object-cover object-center rounded-full w-32 sm:w-[186px] bg-white"
           />
