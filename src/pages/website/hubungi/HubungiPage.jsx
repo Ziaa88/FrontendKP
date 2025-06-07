@@ -29,7 +29,7 @@ const HubungiPage = () => {
           <div className="flex flex-col gap-2 text-center text-white sm:text-left">
             <h2 className="text-lg font-medium md:text-xl">facebook</h2>
             <a
-              href="https://www.facebook.com/profile.php?id=100090354922398&mibextid=rS40aB7S9Ucbxw6v"
+              href="https://www.facebook.com/klinikputriwamena"
               target="_blank"
               rel="noopener noreferrer"
               className="hover:underline"
@@ -46,7 +46,7 @@ const HubungiPage = () => {
           <div className="flex flex-col gap-2 text-center text-white sm:text-left">
             <h2 className="text-lg font-medium md:text-xl">instagram</h2>
             <a
-              href="https://www.instagram.com/klinikputriwamena/"
+              href="https://www.instagram.com/klinikputriwamena"
               target="_blank"
               rel="noopener noreferrer"
               className="hover:underline"
